@@ -1,0 +1,22 @@
+{
+  "name": "leveldb-tcp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redis-client.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "level": "^6.0.1",
+    "redis-parser": "^3.0.0"
+  },
+  "devDependencies": {
+    "redis": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
