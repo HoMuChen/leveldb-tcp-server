@@ -1,8 +1,8 @@
 {
   "name": "leveldb-tcp-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "redis-client.js",
+  "description": "A redis compatible protocal levelDB tcp server",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
@@ -14,9 +14,15 @@
     "redis": "^3.0.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node run.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "leveldb",
+    "tcp",
+    "database",
+    "redis-protocal",
+    "redis"
+  ],
+  "author": "b9891052@ntu.edu.tw",
   "license": "ISC"
 }
