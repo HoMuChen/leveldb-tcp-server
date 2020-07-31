@@ -1,6 +1,6 @@
 {
   "name": "leveldb-tcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A redis compatible protocal levelDB tcp server",
   "main": "index.js",
   "directories": {
