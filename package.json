@@ -24,5 +24,13 @@
     "redis"
   ],
   "author": "b9891052@ntu.edu.tw",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoMuChen/leveldb-tcp-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoMuChen/leveldb-tcp-server.git"
+  },
+  "homepage": "https://github.com/HoMuChen/leveldb-tcp-server#readme"
 }
